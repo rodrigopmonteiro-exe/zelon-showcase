@@ -78,7 +78,7 @@ Dados só têm valor quando geram decisões.
 
 ## Dashboard Financeiro
 
-![](./assets/mockups/dashboard-tablet.png)
+![](./assets/mockups/dashboard-tablet.webp)
 
 Visualização consolidada da situação financeira.
 
@@ -86,7 +86,7 @@ Visualização consolidada da situação financeira.
 
 ## Planejamento Financeiro
 
-![](./assets/mockups/planejamento-tablet.png)
+![](./assets/mockups/planejamento-tablet.webp)
 
 Estrutura para organização financeira de curto, médio e longo prazo.
 
@@ -94,7 +94,7 @@ Estrutura para organização financeira de curto, médio e longo prazo.
 
 ## Patrimônio
 
-![](./assets/mockups/patrimonio-tablet.png)
+![](./assets/mockups/patrimonio-tablet.webp)
 
 Monitoramento da evolução patrimonial ao longo do tempo.
 
@@ -102,7 +102,7 @@ Monitoramento da evolução patrimonial ao longo do tempo.
 
 ## Simulador Financeiro
 
-![](./assets/mockups/simulador-tablet.png)
+![](./assets/mockups/simulador-tablet.webp)
 
 Projeções patrimoniais e estimativas de independência financeira.
 
@@ -110,7 +110,7 @@ Projeções patrimoniais e estimativas de independência financeira.
 
 ## Alliance
 
-![](./assets/mockups/alliance-tablet.png)
+![](./assets/mockups/alliance-tablet.webp)
 
 Sistema de progressão financeira baseado em gamificação.
 
@@ -118,7 +118,7 @@ Sistema de progressão financeira baseado em gamificação.
 
 ## Zelon Capture
 
-![](./assets/mockups/capture-mobile.png)
+![](./assets/mockups/capture-mobile.webp)
 
 Aplicativo complementar para captura rápida de receitas e despesas.
 
