@@ -234,11 +234,11 @@ https://www.zelon.com.br/demo
 
 📚 Case Study
 
-https://site.zelon.com.br/case-study
+https://case.zelon.com.br
 
 💻 Portfólio Técnico
 
-https://site.zelon.com.br/technical-portfolio
+https://technical-portfolio.zelon.com.br
 
 ---
 
