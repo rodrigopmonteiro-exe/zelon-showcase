@@ -1,7 +1,7 @@
 # Zelon
 
 <p align="center">
-  <img src="./assets/banners/github-banner.png" alt="Zelon Banner" width="100%">
+  <img src="./assets/banners/github-banner.webp" alt="Zelon Banner" width="100%">
 </p>
 
 <p align="center">
