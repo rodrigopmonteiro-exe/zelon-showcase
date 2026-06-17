@@ -14,10 +14,10 @@
 
 <p align="center">
   <a href="https://www.zelon.com.br">Aplicativo</a> •
-  <a href="./Docs/vision.md">Vision</a> •
-  <a href="./Docs/roadmap.md">Roadmap</a> •
-  <a href="./Docs/founder-story.md">Founder Story</a> •
-  <a href="./Docs/design-system.md">Design System</a>
+  <a href="./docs/vision.md">Vision</a> •
+  <a href="./docs/roadmap.md">Roadmap</a> •
+  <a href="./docs/founder-story.md">Founder Story</a> •
+  <a href="./docs/design-system.md">Design System</a>
 </p>
 
 ---
