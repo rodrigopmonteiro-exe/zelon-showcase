@@ -1,98 +1,304 @@
-# zelon-showcase
-Zelon
+# Zelon
 
 <p align="center">
-  <img src="./assets/logo.png" alt="Zelon" width="140" />
-</p><h1 align="center">Controle. Clareza. Liberdade.</h1><p align="center">
-  Plataforma de evolução financeira criada para ajudar pessoas a organizar suas finanças, construir patrimônio e alcançar independência financeira através de planejamento inteligente, acompanhamento contínuo e gamificação.
-</p><p align="center">
-  <a href="https://www.zelon.com.br"><strong>Website</strong></a> •
-  <a href="https://app.zelon.com.br"><strong>Aplicativo</strong></a> •
-  <a href="https://app.zelon.com.br/demo"><strong>Demonstração</strong></a> •
-  <a href="https://www.zelon.com.br/case-study"><strong>Case Study</strong></a>
-</p>---
+  <img src="./assets/banners/github-banner.png" alt="Zelon Banner" width="100%">
+</p>
 
-Sobre o Projeto
+<p align="center">
+  <strong>Controle. Clareza. Liberdade.</strong>
+</p>
 
-O Zelon nasceu com uma missão simples:
+<p align="center">
+  Plataforma de Evolução Financeira Pessoal
+</p>
 
-«Ajudar pessoas a tomar melhores decisões financeiras.»
-
-Enquanto a maioria dos aplicativos financeiros se concentra apenas em registrar despesas e gerar relatórios, o Zelon foi projetado para acompanhar toda a jornada de evolução financeira do usuário.
-
-Desde o primeiro registro de gastos até a construção de patrimônio e o planejamento da independência financeira.
-
----
-
-O Que Torna o Zelon Diferente
-
-O Zelon não foi construído como um simples aplicativo de controle financeiro.
-
-Foi projetado como um sistema integrado de evolução financeira.
-
-Controle Financeiro
-
-Organização de receitas, despesas e investimentos.
-
-Construção Patrimonial
-
-Acompanhamento da evolução do patrimônio líquido.
-
-Planejamento Inteligente
-
-Distribuição financeira baseada na realidade do usuário.
-
-Simulação de Futuro
-
-Projeções de patrimônio e independência financeira.
-
-Gamificação
-
-Sistema de progresso, recompensas e engajamento através do Alliance.
+<p align="center">
+  <a href="https://www.zelon.com.br">Aplicativo</a> •
+  <a href="./docs/vision.md">Vision</a> •
+  <a href="./docs/roadmap.md">Roadmap</a> •
+  <a href="./docs/founder-story.md">Founder Story</a> •
+  <a href="./docs/design-system.md">Design System</a>
+</p>
 
 ---
 
-Principais Módulos
+# Visão Geral
 
-Módulo| Objetivo
-Capture| Registro rápido de despesas
-Meu Mês| Controle financeiro mensal
-Patrimônio| Construção patrimonial
-Dívidas| Gestão de passivos
-Reserva| Segurança financeira
-Planejamento| Estratégia financeira
-Estratégias| Recomendações personalizadas
-Evolução| Acompanhamento de progresso
-Simulador| Planejamento de longo prazo
-Alliance| Gamificação e engajamento
+O Zelon é uma plataforma de evolução financeira pessoal criada para ajudar pessoas a organizar suas finanças, construir patrimônio e alcançar independência financeira.
+
+Diferente de aplicativos focados apenas em registrar despesas, o Zelon foi desenvolvido para transformar dados financeiros em clareza, direção e progresso.
+
+A plataforma integra planejamento financeiro, acompanhamento patrimonial, simulações futuras, estratégias financeiras e mecanismos de engajamento em um único ecossistema.
 
 ---
 
-Jornada Financeira
+# Nossa Missão
 
-Capture
-   ↓
-Meu Mês
-   ↓
-Patrimônio
-   ↓
-Planejamento
-   ↓
-Estratégias
-   ↓
-Evolução
-   ↓
-Simulador
-   ↓
-Alliance
-
-Cada módulo contribui para transformar dados financeiros em progresso financeiro.
+Ajudar pessoas a desenvolverem uma relação mais saudável com o dinheiro através de clareza financeira, planejamento inteligente e evolução contínua.
 
 ---
 
-Stack Tecnológica
+# Nossa Visão
 
-Frontend
+Construir a principal plataforma de evolução financeira pessoal da América Latina.
+
+---
+
+# Filosofia de Produto
+
+O Zelon foi construído sobre quatro princípios fundamentais.
+
+## Clareza acima de Complexidade
+
+Informações financeiras devem ser fáceis de entender.
+
+---
+
+## Consistência acima de Perfeição
+
+Pequenos avanços constantes geram grandes resultados ao longo do tempo.
+
+---
+
+## Evolução acima de Controle
+
+O objetivo não é apenas controlar dinheiro.
+
+É construir uma vida financeira melhor.
+
+---
+
+## Ação acima de Informação
+
+Dados só têm valor quando geram decisões.
+
+---
+
+# Product Showcase
+
+## Dashboard Financeiro
+
+![](./assets/mockups/dashboard-tablet.png)
+
+Visualização consolidada da situação financeira.
+
+---
+
+## Planejamento Financeiro
+
+![](./assets/mockups/planejamento-tablet.png)
+
+Estrutura para organização financeira de curto, médio e longo prazo.
+
+---
+
+## Patrimônio
+
+![](./assets/mockups/patrimonio-tablet.png)
+
+Monitoramento da evolução patrimonial ao longo do tempo.
+
+---
+
+## Simulador Financeiro
+
+![](./assets/mockups/simulador-tablet.png)
+
+Projeções patrimoniais e estimativas de independência financeira.
+
+---
+
+## Alliance
+
+![](./assets/mockups/alliance-tablet.png)
+
+Sistema de progressão financeira baseado em gamificação.
+
+---
+
+## Zelon Capture
+
+![](./assets/mockups/capture-mobile.png)
+
+Aplicativo complementar para captura rápida de receitas e despesas.
+
+---
+
+# Recursos Principais
+
+## Dashboard
+
+- Indicadores financeiros
+- Evolução patrimonial
+- Distribuição de despesas
+- Situação financeira consolidada
+- Métricas de desempenho
+
+---
+
+## Meu Mês
+
+- Receitas realizadas
+- Despesas realizadas
+- Saldo mensal
+- Comparação entre planejado e realizado
+
+---
+
+## Planejamento
+
+- Planejamento financeiro
+- Perfil de investidor
+- Estratégias financeiras
+- Recomendações personalizadas
+
+---
+
+## Patrimônio
+
+- Ativos
+- Passivos
+- Patrimônio líquido
+- Evolução patrimonial
+
+---
+
+## Dívidas
+
+- Empréstimos
+- Financiamentos
+- Parcelamentos
+- Planejamento de quitação
+
+---
+
+## Reserva de Emergência
+
+- Meta ideal
+- Valor acumulado
+- Cobertura financeira
+- Evolução da reserva
+
+---
+
+## Simulações
+
+- Independência financeira
+- Cenários futuros
+- Crescimento patrimonial
+- Comparação de estratégias
+
+---
+
+## Evolução Financeira
+
+- Score financeiro
+- Histórico financeiro
+- Indicadores de progresso
+- Marcos financeiros
+
+---
+
+# Futuro Paralelo
+
+Uma funcionalidade exclusiva do Zelon.
+
+Permite visualizar diferentes versões do futuro financeiro do usuário com base nas decisões tomadas hoje.
+
+## Exemplos
+
+### Cenário Atual
+
+Mantendo os hábitos atuais.
+
+### Cenário Zelon
+
+Seguindo recomendações personalizadas da plataforma.
+
+### Cenário Acelerado
+
+Aumentando investimentos e reduzindo desperdícios.
+
+O objetivo é transformar projeções financeiras em histórias compreensíveis e motivadoras.
+
+---
+
+# Alliance
+
+Alliance é o sistema de evolução e engajamento do Zelon.
+
+Foi criado para incentivar consistência através de elementos de progressão.
+
+## Recursos
+
+- XP
+- Coins
+- Missões
+- Ranking
+- Conquistas
+- Clube Lenda
+- Recompensas digitais
+
+---
+
+# Zelon Capture
+
+Aplicativo complementar focado em registro rápido.
+
+Exemplos de entrada:
+
+```text
+25 Uber
+45 Mercado
+18 Café
+120 Farmácia
+```
+
+Os dados são interpretados automaticamente e integrados ao ecossistema Zelon.
+
+---
+
+# Ecossistema
+
+## Zelon
+
+Plataforma principal de evolução financeira.
+
+---
+
+## Zelon Capture
+
+Captura rápida de dados financeiros.
+
+---
+
+## Zelon AI *(Em Desenvolvimento)*
+
+Camada de inteligência financeira.
+
+---
+
+## Zelon Academy *(Planejado)*
+
+Educação financeira integrada.
+
+---
+
+## Zelon Wealth *(Planejado)*
+
+Gestão patrimonial avançada.
+
+---
+
+## Zelon Business *(Planejado)*
+
+Planejamento financeiro para empreendedores.
+
+---
+
+# Arquitetura
+
+## Frontend
 
 - React
 - TypeScript
@@ -100,169 +306,158 @@ Frontend
 - Tailwind CSS
 - shadcn/ui
 
-Backend
+---
+
+## Backend
 
 - Supabase
 - PostgreSQL
+- Row Level Security (RLS)
 - Edge Functions
 
-Plataforma
+---
+
+## Infraestrutura
 
 - Progressive Web App (PWA)
 - GitHub
 - Stripe
+- Cloud Deployment
 
 ---
 
-Documentação
+# Estrutura do Repositório
 
-Este repositório contém a documentação pública do projeto Zelon.
-
-📖 Vision
-
-A visão, missão e filosofia do produto.
-
-➡️ ""docs/vision.md"" (./docs/vision.md)
-
----
-
-🏗 Architecture
-
-Arquitetura da plataforma e visão técnica.
-
-➡️ ""docs/architecture.md"" (./docs/architecture.md)
-
----
-
-🧩 Modules
-
-Descrição dos módulos que compõem o ecossistema Zelon.
-
-➡️ ""docs/modules.md"" (./docs/modules.md)
+```text
+zelon-showcase/
+│
+├── README.md
+│
+├── docs/
+│   ├── architecture.md
+│   ├── building-zelon.md
+│   ├── design-system.md
+│   ├── engineering.md
+│   ├── founder-story.md
+│   ├── roadmap.md
+│   └── vision.md
+│
+└── assets/
+    ├── banners/
+    ├── logo/
+    ├── mockups/
+    └── screenshots/
+```
 
 ---
 
-🚀 Roadmap
+# Documentação
 
-Direção estratégica e evolução planejada da plataforma.
-
-➡️ ""docs/roadmap.md"" (./docs/roadmap.md)
-
----
-
-⚙️ Engineering
-
-Princípios de engenharia, decisões técnicas e processo de desenvolvimento.
-
-➡️ ""docs/engineering.md"" (./docs/engineering.md)
+| Documento | Descrição |
+|------------|------------|
+| vision.md | Visão estratégica do produto |
+| founder-story.md | História do fundador e origem do projeto |
+| building-zelon.md | Processo de construção da plataforma |
+| architecture.md | Arquitetura técnica |
+| engineering.md | Filosofia de engenharia |
+| design-system.md | Sistema de design |
+| roadmap.md | Evolução planejada |
 
 ---
 
-📸 Screenshots
+# Roadmap
 
-Capturas de tela e apresentação visual do produto.
+Próximas iniciativas planejadas.
 
-➡️ ""docs/screenshots.md"" (./docs/screenshots.md)
+## IA Financeira
 
----
-
-Screenshots
-
-Dashboard
-
-"Dashboard" (./assets/screenshots/dashboard.png)
+- Zelon Advisor
+- Insights automáticos
+- Diagnóstico inteligente
 
 ---
 
-Meu Mês
+## Planejamento Avançado
 
-"Meu Mês" (./assets/screenshots/meu-mes.png)
-
----
-
-Patrimônio
-
-"Patrimônio" (./assets/screenshots/patrimonio.png)
+- Metas financeiras
+- Planejamento por objetivos
+- Linha do tempo financeira
 
 ---
 
-Alliance
+## Evolução Financeira 2.0
 
-"Alliance" (./assets/screenshots/alliance.png)
-
----
-
-Zelon Quick Capture
-
-"Capture" (./assets/screenshots/capture.png)
+- Score avançado
+- Plano de evolução
+- Marcos financeiros
 
 ---
 
-Produtos do Ecossistema
+## Alliance Expansion
 
-Zelon
-
-Plataforma principal de evolução financeira.
-
----
-
-Zelon Quick Capture
-
-Aplicativo complementar para registro rápido de despesas e receitas.
+- Missões inteligentes
+- Eventos da comunidade
+- Liga Alliance
 
 ---
 
-Futuros Produtos
+## Ecossistema
 
-O ecossistema Zelon continuará expandindo para novas soluções voltadas à evolução financeira pessoal.
+- Perfil unificado
+- Integração total entre produtos
+- Novas soluções financeiras
 
 ---
 
-Links
+# Links
 
-🌐 Website
+## 🌐 Website
 
 https://site.zelon.com.br
 
-📱 Aplicativo
+---
+
+## 📱 Aplicativo
 
 https://www.zelon.com.br
 
-🎯 Demonstração
+---
+
+## 🎯 Demonstração
 
 https://www.zelon.com.br/demo
 
-📚 Case Study
+---
 
-https://case.zelon.com.br
+## 📚 Case Study
 
-💻 Portfólio Técnico
-
-https://technical-portfolio.zelon.com.br
+https://site.zelon.com.br/case-study
 
 ---
 
-Filosofia
+## 💻 Portfólio Técnico
 
-«Clareza acima de complexidade.»
-
-«Consistência acima de perfeição.»
-
-«Evolução acima de controle.»
-
-«Ação acima de informação.»
+https://site.zelon.com.br/technical-portfolio
 
 ---
 
-Status
+# Nossa Ambição
 
-🚀 Desenvolvimento ativo
+Não queremos construir apenas mais um aplicativo financeiro.
 
-O Zelon está em constante evolução, com foco em ajudar pessoas a desenvolver hábitos financeiros saudáveis, construir patrimônio e conquistar independência financeira.
+Queremos construir uma plataforma capaz de ajudar pessoas a:
+
+- Organizar
+- Planejar
+- Investir
+- Evoluir
+- Construir patrimônio
+- Alcançar independência financeira
+
+Tudo em um único ecossistema.
 
 ---
 
-<p align="center">
-  <strong>Zelon</strong><br>
-  Controle. Clareza. Liberdade.
-</p>
+# Zelon
+
+**Controle. Clareza. Liberdade.**
