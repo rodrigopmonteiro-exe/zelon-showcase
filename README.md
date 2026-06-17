@@ -199,30 +199,6 @@ Aplicativo complementar para captura rápida de receitas e despesas.
 
 ---
 
-# Futuro Paralelo
-
-Uma funcionalidade exclusiva do Zelon.
-
-Permite visualizar diferentes versões do futuro financeiro do usuário com base nas decisões tomadas hoje.
-
-## Exemplos
-
-### Cenário Atual
-
-Mantendo os hábitos atuais.
-
-### Cenário Zelon
-
-Seguindo recomendações personalizadas da plataforma.
-
-### Cenário Acelerado
-
-Aumentando investimentos e reduzindo desperdícios.
-
-O objetivo é transformar projeções financeiras em histórias compreensíveis e motivadoras.
-
----
-
 # Alliance
 
 Alliance é o sistema de evolução e engajamento do Zelon.
