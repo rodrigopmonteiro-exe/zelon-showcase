@@ -4,7 +4,7 @@ Esta pasta contém os arquivos oficiais da identidade visual do Zelon.
 
 ## Arquivos
 
-- logo.png
+- logo.webp
 - logo-dark.png
 - logo-light.png
 
